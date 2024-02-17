@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi there
 
-<!--
-**andsilva515/andsilva515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Sistemas de Informação pelo Centro Universitário do Sul de Minas, possuo experiência na área de desenvolvimento de sistemas, dispondo conhecimentos em engenharia de software, metodologia ágeis, programação em PHP, C#, JavaScript, TypeScript, Laravel, Angular, .NET, entre outros, com facilidade para aprender novas linguagens e adaptação a novos sistemas.
 
-Here are some ideas to get you started:
+# 🚀 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Full Stack, um grande entusiasta da área de tecnologia. Tenho prioridade em investir no meu aprendizado e com objetivo de aprimorar as minhas habilidades técnicas (hard skills) e comportamentais (soft skills), a fim de gerar algum valor.
+
+Para complementar os estudos e com o intuito de me manter ativo e atualizado junto a comunidade tecnológica, participo de eventos, bootcamps imersivos, cursos extras, leitura de artigos em sites/blogs de tecnologia, livros, artigos científicos, etc.
+
+Estu aberto a novas oportunidades que me permitam aplicar os meus conhecimentos e habilidades em desenvolvimento de sistemas, contribuindo para o crescimento e sucesso das organizações. Se você estiver interessado em discutir possíveis colaborações ou projetos, ficarei feliz em contribuir. Vamos conectar e trocar ideias!
+
+# 💻 Tecnologias e Ferramentas:
+
+
+# 🌐 Social:
+
