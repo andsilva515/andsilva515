@@ -8,7 +8,7 @@ Desenvolvedor Full Stack, um grande entusiasta da área de tecnologia. Tenho pri
 
 Para complementar os estudos e com o intuito de me manter ativo e atualizado junto a comunidade tecnológica, participo de eventos, bootcamps imersivos, cursos extras, leitura de artigos em sites/blogs de tecnologia, livros, artigos científicos, etc.
 
-Estu aberto a novas oportunidades que me permitam aplicar os meus conhecimentos e habilidades em desenvolvimento de sistemas, contribuindo para o crescimento e sucesso das organizações. Se você estiver interessado em discutir possíveis colaborações ou projetos, ficarei feliz em contribuir. Vamos conectar e trocar ideias!
+Estou aberto a novas oportunidades que me permitam aplicar os meus conhecimentos e habilidades em desenvolvimento de sistemas, contribuindo para o crescimento e sucesso das organizações. Se você estiver interessado em discutir possíveis colaborações ou projetos, ficarei feliz em contribuir. Vamos conectar e trocar ideias!
 
 # 💻 Tecnologias e Ferramentas:
 
