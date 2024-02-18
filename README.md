@@ -1,6 +1,6 @@
 # 👋 Olá, Devs!!
 
-Graduando em Sistemas de Informação pelo Centro Universitário do Sul de Minas, possuo experiência na área de desenvolvimento de sistemas, dispondo conhecimentos em engenharia de software, metodologia ágeis, programação em PHP, C#, JavaScript, TypeScript, Laravel, Angular, .NET, entre outros, com facilidade para aprender novas linguagens e adaptação a novos sistemas.
+Graduando em Sistemas de Informação pelo Centro Universitário do Sul de Minas, possuo experiência na área de desenvolvimento de sistemas, dispondo conhecimentos em boas práticas de desenvolvimento, princípios de design responsivo, interfaces de usuário adaptativas, engenharia de software, metodologias ágeis, programação em PHP, C#, JavaScript/TypeScript, Laravel, .NET, Angular, entre outros, com facilidade para aprender novas linguagens e adaptação a novos sistemas.
 
 # 🚀 Expertise
 
